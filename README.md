@@ -1,0 +1,1 @@
+This project is for The Odin Project and is a simple recipe website to practice my basic understanding of HTML.  It will be further stylized later when I get into CSS. 
